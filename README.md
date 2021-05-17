@@ -1,13 +1,13 @@
-Jackson Barker
-007749531
-COMP 4490 Ray tracer project
+
+## COMP 4490 Ray tracer project
+#### Jackson Barker
 
 
 Written and tested using Visual Studio on Windows 10.
 To run, type name of scene in project->properties->debugging->command arguments
 without '.json'
 
-Run Times:
+## Run Times:
 
 gloss (10 samples, 0.9 gloss): ~5:25
 gloss (10 samples, 0.2 gloss): ~30 seconds
@@ -31,6 +31,8 @@ scene oren: left has oren, right has phong - neither has a specular component.
 scene ward: left has ward, right has phong.
 
 screenshot naming for transfomations follow the naming below.
+
+### Transformations
 
 transform0:
 rotation angle: 90 degrees
