@@ -7,7 +7,7 @@ Written and tested using Visual Studio on Windows 10.
 To run, type name of scene in project->properties->debugging->command arguments
 without '.json'
 
-## Run Times:
+### Run Times:
 
 gloss (10 samples, 0.9 gloss): ~5:25
 gloss (10 samples, 0.2 gloss): ~30 seconds
